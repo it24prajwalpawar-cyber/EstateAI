@@ -1,0 +1,12 @@
+{
+  "algorithm": "Multiple Linear Regression with log-transformed target",
+  "dataset_rows_after_filtering": 29078,
+  "training_rows": 23262,
+  "test_rows": 5816,
+  "cv_r2_mean": 0.7680645576065643,
+  "cv_r2_std": 0.05159192592761333,
+  "test_r2": 0.85355902869464,
+  "test_mae_lakh": 17.816895003090703,
+  "test_rmse_lakh": 37.56724675242012,
+  "target_transform": "log1p; inverse transform expm1"
+}
